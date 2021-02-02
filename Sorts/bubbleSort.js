@@ -19,3 +19,6 @@ const bubble = [2, 5, 25, 13, 1, 8]
 // i = 0 j = 0
 
 console.log(bubbleSort(bubble))
+
+// Best	Average	Worst	Memory Stable
+// 	n	n2	n2	1	Yes
